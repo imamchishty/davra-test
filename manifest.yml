@@ -1,0 +1,6 @@
+---
+applications:
+- name: davra-demo
+  memory: 256MB
+  random-route: true
+  path: target/davra-demo.jar
